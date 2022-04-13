@@ -1,6 +1,8 @@
 # ML_Keras_example_1
 Keras essentially offers two models of neural networks: the sequential one and the functional one. The sequential model is the simplest, and can be represented by a stack of layers. These will allow us to build the final neural network model layer by layer. To understand how a sequential model is created, we will use the classic example of predictive diabetes analysis in the Arizona Pima population. The goal of this example is to make a prediction as to whether a person from the Pima Indians group has diabetes or is at risk of developing it.
 
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/3EJZiSmqRkoZ48ae2pYbKupMYQqoQvxdxe)](https://en.cryptobadges.io/donate/3EJZiSmqRkoZ48ae2pYbKupMYQqoQvxdxe)
+
 * ML_Keras_example_1 is written by Grando Ruggero in Python. A guide for use is available on the website https://www.megalinux.cloud.
 * Version 0.0.1
 
@@ -46,8 +48,6 @@ If you discover a bug in the bot, please search [our issue tracker first](https:
 Feature Requests
 
 Have you a great idea to improve the bot you want to share? Please, first search if this feature was not already discussed. If it hasn't been requested, please create a new request!
-
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/3EJZiSmqRkoZ48ae2pYbKupMYQqoQvxdxe)](https://en.cryptobadges.io/donate/3EJZiSmqRkoZ48ae2pYbKupMYQqoQvxdxe)
 
 ### License
 
