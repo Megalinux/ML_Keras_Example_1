@@ -3,7 +3,7 @@ Keras essentially offers two models of neural networks: the sequential one and t
 
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/3EJZiSmqRkoZ48ae2pYbKupMYQqoQvxdxe)](https://en.cryptobadges.io/donate/3EJZiSmqRkoZ48ae2pYbKupMYQqoQvxdxe)
 
-* ML_Keras_example_1 is written by Grando Ruggero in Python. A guide for use is available on the website https://www.megalinux.cloud.
+* ML_Keras_example_1 is written by Grando Ruggero in Python. A guide for use is available on the website https://www.megalinux.cloud/il-modello-sequenziale-di-keras-un-esempio-di-utilizzo/.
 * Version 0.0.1
 
 ### Disclaimer ###
