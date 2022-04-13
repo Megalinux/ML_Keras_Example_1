@@ -4,8 +4,6 @@ Keras essentially offers two models of neural networks: the sequential one and t
 * ML_Keras_example_1 is written by Grando Ruggero in Python. A guide for use is available on the website https://www.megalinux.cloud.
 * Version 0.0.1
 
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/3EJZiSmqRkoZ48ae2pYbKupMYQqoQvxdxe)](https://en.cryptobadges.io/donate/3EJZiSmqRkoZ48ae2pYbKupMYQqoQvxdxe)
-
 ### Disclaimer ###
 
 This software is for educational purposes only. Do not risk money which you are afraid to lose. USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS.
@@ -48,6 +46,8 @@ If you discover a bug in the bot, please search [our issue tracker first](https:
 Feature Requests
 
 Have you a great idea to improve the bot you want to share? Please, first search if this feature was not already discussed. If it hasn't been requested, please create a new request!
+
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/3EJZiSmqRkoZ48ae2pYbKupMYQqoQvxdxe)](https://en.cryptobadges.io/donate/3EJZiSmqRkoZ48ae2pYbKupMYQqoQvxdxe)
 
 ### License
 
