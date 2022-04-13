@@ -10,7 +10,7 @@ from sklearn.preprocessing import StandardScaler
 import keras.callbacks
 from datetime import datetime
 #Importing the dataset
-diabetes = pd.read_csv('diabetes_con_headers.csv')
+diabetes = pd.read_csv('diabetes.csv')
 dataset = diabetes
 dataset.info()
 #Example of violinplot using library Seaborn
