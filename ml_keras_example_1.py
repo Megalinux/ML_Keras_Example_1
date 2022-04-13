@@ -32,11 +32,13 @@ model = Sequential()
 model.add(Dense(12, input_dim=8, activation='relu'))
 model.add(Dense(8, activation='relu'))
 model.add(Dense(1, activation='sigmoid'))
+#Compile the model
 model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+#Training the model
 model.fit(XScaler, Y, epochs=150, batch_size=10)
+#Evaluate the model
 _,accuracy = model.evaluate(XScaler, Y)
-print(str(accuracy))
-# costruire Y  ossia predictions con il modello della rete neurale
+#Calculate predicted values ​​with the new neural network model
 predictions = model.predict(XScaler)
 IndexValues = []
 RealValues = []
@@ -52,4 +54,5 @@ for i in range(30):
 df = pd.DataFrame(TotalValues, columns =['Nr', 'RealValue','PredicValue'])
 df2= df.melt('Nr', var_name='cols', value_name='vals')
 sea.lineplot(x="Nr", y="vals", hue="cols", data=df2,alpha=.5)
+#Save the model results in an image
 plt.savefig("sea_1_.png")
