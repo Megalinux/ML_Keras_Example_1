@@ -20,11 +20,11 @@ We strongly recommend you to have coding and Python knowledge. Do not hesitate t
 ### Run ###
 
 1. In terminal/cmd go to Your main project's folder.
-2. Run ML_Keras_Example_1 tool by command: python3 
+2. Run ML_Keras_Example_1 tool by command: python3 or ./
    
-   Example of run Polinomial Regression:
+   Example of run ML Keras Example 1:
 
-    * `python3 
+    * `python3 ml_keras_example_1.py
 
 
 ### Requirements ###
